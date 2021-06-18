@@ -1,5 +1,5 @@
-# Data-Visualization-with-Python
-## Final Addignment
+# Dash application: US Domestic Airline Flights Performance
+## Final Assignment
 
 In this Assignment, pandas, dash and ploty librearies were requiered to make a dashboard to monitor and report US domestic airline flights performance and yearly average flight delay statistics for a given year ( 2005 to 2020). 
 Goal is to analyze the perfomance of the reporting airline to improve flight reliability thereby improving customer relaibility.
